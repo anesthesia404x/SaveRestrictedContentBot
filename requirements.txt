@@ -5,4 +5,4 @@ https://github.com/vasusen-code/ethon/archive/refs/tags/v0.1.5.zip
 cryptg
 tgcrypto
 pyrogram
-python-dotenv
+python:3.9
