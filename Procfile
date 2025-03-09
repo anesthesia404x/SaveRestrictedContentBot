@@ -1,1 +1,1 @@
-Drone: python3.9 -m main
+Drone: python -m main
